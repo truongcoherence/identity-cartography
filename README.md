@@ -72,3 +72,11 @@ The map does not tell you who to be.
 It shows you the terrain you are already walking.
 
 The path is yours.
+
+## Sections
+
+- [Applications](APPLICATIONS/index.md)
+- [Field Notes](FIELD%20NOTES/index.md)
+- [Operators](OPERATORS/index.md)
+- [Orientation](ORIENTATION/index.md)
+- [Structuria (Canon)](STRUCTURIA%20(CANON)/index.md)
