@@ -1,3 +1,4 @@
+#### ***From Under-Engineered Voids to Over-Engineered Cages***
 ## The Mechanics of Failure
 
 Most of what I’ve learned about AI didn’t come from theory — it came from watching models break in the same ways over and over again. Claude would drift when the workload got too heavy. Gemini would misalign chunks when the data lived across too many files. Copilot would lose the thread the moment I mixed topics. ChatGPT would start telling stories when the probability field got unstable.

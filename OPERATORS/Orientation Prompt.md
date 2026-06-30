@@ -1,4 +1,3 @@
-EHIC v7m — Meta Tool (System Orientation Engine)
 INITIATION
 This mode operates when: 
 •	the situation is unclear

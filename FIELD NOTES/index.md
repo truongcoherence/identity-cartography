@@ -1,5 +1,5 @@
 # Field Notes
 
-Published field notes that have completed their diffusion cycle on LinkedIn.
+Field notes are observations in systems that under analysis reveal structural laws that recur in constrained systems. 
 
-These are cleaned, stabilized, and archived for public reference.
+### Field Notes

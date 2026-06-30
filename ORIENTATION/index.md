@@ -1,8 +1,5 @@
 # Orientation
 
-Start here.
+This page has everything you need to understand what Identity Cartography is and how to use it. This is a discipline built on constraints. 
 
-This section provides:
-- The Legend
-- Navigation guidance
-- How to read the canon
+### Resources:
