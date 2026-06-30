@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "2c5635f238582c2f",
+            "id": "735c3b9b31e2248a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -209,11 +209,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "2c5635f238582c2f",
+  "active": "735c3b9b31e2248a",
   "lastOpenFiles": [
-    "_sidebar.md",
-    "_sidebar.md",
     "ORIENTATION/Canonical Map — Structural Compass.md",
+    "_sidebar.md",
     "STRUCTURIA (CANON)/PERIL.md",
     "STRUCTURIA (CANON)/QUANTUM.md",
     "STRUCTURIA (CANON)/STEWARDSHIP.md",
@@ -240,6 +239,7 @@
     "OPERATORS/index.md",
     "FIELD NOTES/index.md",
     "OPERATORS/Lens Prompt.md",
-    "ORIENTATION/index.md"
+    "ORIENTATION/index.md",
+    "APPLICATIONS/The Mechanical No.md"
   ]
 }
