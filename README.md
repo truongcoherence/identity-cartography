@@ -29,10 +29,6 @@ Precision is the stance.
 
 ## **What Lives Here**
 
-### **The Legend**
-
-The decoding key — the architecture that makes the discipline readable.
-
 ### **Structuria (The Canon)**
 
 The core physics of identity.
