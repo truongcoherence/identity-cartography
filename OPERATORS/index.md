@@ -6,8 +6,16 @@ This section contains the tools necessary to use Identity Cartography to map out
 
 Many of the operators in this section are AI prompts you can copy and paste into most AI chat boxes to help you understand situations under the surface. 
 
-### Tools
+## Sections
+
+* [Applications](APPLICATIONS/index.md)
+* [Field Notes](FIELD%20NOTES/index.md)
+* [Operators](OPERATORS/index.md)
+* [Orientation](ORIENTATION/index.md)
+* [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)
+
+## Tools
 
 
 
-### Explanations
+## Instruction For Use
