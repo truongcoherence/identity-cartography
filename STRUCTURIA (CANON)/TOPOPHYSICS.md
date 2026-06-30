@@ -1,16 +1,15 @@
-Contextual Environmental Physics
+### ***Contextual Environmental Physics
 
----
-
+![](https://substackcdn.com/image/fetch/$s_!cEzn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc11e4d0-ab10-4cc6-92b6-6227fffb7cc6_768x693.png)
 # Preamble
 
-Scope:  
+### Scope:  
 Topophysics governs contextual geometry. It defines the environmental distribution of constraint, the positional asymmetries that shape possibility, and the local forces that bias identity toward specific trajectories. It does not govern identity, preference, interpretation, or behavior.
 
-Intent:  
+### Intent:  
 To articulate the structural properties of context — how environmental position alters possibility, stability, and movement. Topophysics establishes the contextual gravity fields within which temporal evolution (Chronophysics) and micro‑possibility (Quantum) must operate.
 
-Guardrails:  
+### Guardrails:  
 This canon must not be read as psychological, narrative, or prescriptive. It does not describe social dynamics, personal tendencies, or situational judgment. It prohibits interpreting contextual advantage or disadvantage as moral, personal, or intentional. It describes environmental geometry, not identity behavior.
 
 ---

@@ -1,16 +1,16 @@
-Micro‑Scale Possibility Physics
+### ***Micro‑Scale Possibility Physics
 
----
+![](https://substackcdn.com/image/fetch/$s_!5oBx!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3b196be-9e7a-4b02-92fd-7e74a176d9ac_845x885.png)
 
 # Preamble
 
-Scope:  
+#### Scope:  
 Quantum governs micro‑scale environmental possibility. It defines the smallest units of environmental state, the discrete transitions available within those states, and the local conditions under which potential becomes actual. It does not govern identity, intention, interpretation, or decision.
 
-Intent:  
+#### Intent:  
 To articulate the irreducible micro‑structures that determine what can form, what can change, and what cannot stabilize. Quantum establishes the possibility space within the macro constraints set by Geophysics.
 
-Guardrails:  
+#### Guardrails:  
 This canon must not be read as psychological, moral, or prescriptive. It does not describe preference, agency, or cognition. It prohibits interpreting micro‑states as metaphor, narrative, or personality. It describes environmental possibility, not identity behavior.
 
 ---
@@ -215,4 +215,3 @@ Occurs because transition cost is invisible until activated.
 These distortions arise from misreading micro‑scale geometry.
 
   
-**

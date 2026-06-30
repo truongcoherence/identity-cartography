@@ -1,16 +1,18 @@
-Fourth Identity Domain Physics
+### ***Fourth Identity Domain Physics
+
+![](https://substackcdn.com/image/fetch/$s_!nd2L!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0af60a36-d5de-4ed2-a5aa-4fbdc8052bbe_939x919.png)
 
 ---
 
 # Preamble
 
-Scope:  
+#### Scope:  
 Stewardship governs the maintenance of identity across time. It describes how identity preserves integrity while carrying commitments, obligations, and structures forward through changing conditions. Stewardship does not govern caretaking, loyalty, sacrifice, optimization, or responsibility. It governs the physics of continuity — the structural requirements for identity to remain intact as time accumulates.
 
-Intent:  
+#### Intent:  
 The purpose of this canon is to describe the mechanics by which identity maintains coherence across temporal extension. Stewardship exists to prevent degradation, drift, or collapse as obligations accumulate and conditions evolve. This canon explains the forces, architecture, and distortions that shape continuity under long‑term load, and establishes Stewardship as the fourth Identity Domain Physics.
 
-Guardrails:  
+#### Guardrails:  
 This canon is descriptive, not prescriptive. It does not evaluate virtue, morality, selflessness, industriousness, or dedication. It does not offer advice on responsibility, leadership, or caretaking. Stewardship is not a personality trait or moral quality. It is a structural system that activates only when identity must preserve itself across time. Interpret this canon as identity physics, not psychology or ethics.
 
 ---
@@ -52,8 +54,6 @@ Stewardship is the fourth IDP because once identity has:
 ---
 
 # 2. Temporal Architecture
-
-(New Section)
 
 Stewardship is the first IDP where identity must construct a temporal structure capable of sustaining itself across time.
 
@@ -348,4 +348,3 @@ Peril governs what happens when continuity is threatened by forces beyond identi
 This is the structural handoff.
 
   
-**

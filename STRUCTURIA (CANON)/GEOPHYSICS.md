@@ -1,16 +1,16 @@
-Macro‑Scale Environmental Physics
-
+### ***Macro‑Scale Environmental Physics
+![](https://substackcdn.com/image/fetch/$s_!GReC!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9f5f0121-0294-4787-9d61-bf7f2417bf3b_834x868.png)
 ---
 
 # Preamble
 
-Scope:  
+#### Scope:  
 Geophysics governs macro‑scale environmental constraint. It defines the outer limits of possible worlds, the fixed pressures that shape all identity architectures, and the structural conditions that no agent can escape. It does not govern identity, cognition, behavior, or interpretation.
 
-Intent:  
+#### Intent:  
 To articulate the non‑negotiable macro forces that determine what can exist, what can persist, and what collapses under environmental load. Geophysics establishes the foundational terrain upon which all other architectural layers must operate.
 
-Guardrails:  
+#### Guardrails:  
 This canon must not be read as psychological, moral, or prescriptive. It does not describe agency, preference, or capability. It describes constraint. It prohibits interpreting environmental collapse as personal failure, and forbids reading environmental forces as metaphor, narrative, or advice.
 
 ---
@@ -216,4 +216,3 @@ These distortions arise from misreading macro‑scale geometry.
 
 ---
 
-**

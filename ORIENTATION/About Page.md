@@ -10,7 +10,7 @@ It removes narrative framing, emotional persuasion, and interpretive guidance �
 
 # **The Discipline Statement**
 
-Structuria extends the logic of Cognitive Systems Engineering (CSE) inward.
+***Structuria extends the logic of Cognitive Systems Engineering (CSE) inward.
 
 Where CSE maps how operators navigate complex environments, Structuria maps how operators navigate themselves. It exposes the load‑bearing beliefs, hidden rules, and structural patterns that determine behavior. The discipline formalizes this into a coherent system of tools, lenses, and frameworks designed to reveal what is normally implicit.
 
@@ -82,7 +82,7 @@ The instrumentation is digital.
 
 # **The Cognitive Audience**
 
-Structuria is written for minds that navigate the world through structure.  
+***Structuria is written for minds that navigate the world through structure.  
   
 For readers who perceive patterns before stories, systems before narratives, and constraints before conventions. These are thinkers who feel friction when rules are implicit, inconsistent, or unspoken — not because they lack intuition, but because their cognition relies on clarity, explicitness, and stable architecture.
 
@@ -94,10 +94,8 @@ Structuria gives that mind a map — explicit, navigable, and engineered — so 
 
 # **The Purpose of the Map**
 
-Structuria exists to make implicit structures visible.
+***Structuria exists to make implicit structures visible.
 
-  
-  
 Its purpose is to give structural thinkers a navigable representation of the forces, constraints, and patterns that shape identity and behavior. The world often expects people to operate using unspoken rules and intuitive norms; Structuria replaces that ambiguity with explicit architecture.
 
 The map is not prescriptive.  
@@ -120,7 +118,7 @@ Structuria’s purpose is simple:
 
 # **The Boundary of the Map**
 
-Structuria is a map, not a mandate.  
+***Structuria is a map, not a mandate.  
   
 It describes the structure beneath experience, but it does not replace the experience itself. All maps simplify. All maps omit. All maps choose what to represent and what to leave outside the frame.
 

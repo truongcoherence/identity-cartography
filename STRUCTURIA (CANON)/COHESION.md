@@ -1,16 +1,18 @@
-Third Identity Domain Physics
+### ***Third Identity Domain Physics
+
+![](https://substackcdn.com/image/fetch/$s_!xCtH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42a7b288-d348-498e-a261-c8e914c7104a_948x917.png)
 
 ---
 
 # Preamble
 
-Scope:  
+#### Scope:  
 Cohesion governs the internal stability of identity once it becomes a multi‑part structure carrying shared load. It describes how identity maintains continuity when obligations, roles, and internal components must support one another to sustain the future selected by Judgment and protected by Boundaries. Cohesion does not govern harmony, unity, emotional closeness, teamwork, or interpersonal connection. It governs the physics of interdependence inside the membrane.
 
-Intent:  
+#### Intent:  
 The purpose of this canon is to describe the mechanics by which identity distributes load, stabilizes weak links, and prevents instability from propagating across internal components. Cohesion exists to ensure that identity remains structurally intact when the demands of a chosen future require multiple internal parts to work together. This canon explains the forces, architecture, and distortions that shape internal stability under shared load, and establishes Cohesion as the third Identity Domain Physics.
 
-Guardrails:  
+#### Guardrails:  
 This canon is descriptive, not prescriptive. It does not evaluate personality, emotional intelligence, communication skill, or relational ability. It does not offer advice on collaboration, teamwork, or conflict resolution. Cohesion is not unity, belonging, or harmony. It is a structural system that activates only when identity must sustain shared load. Interpret this canon as identity physics, not psychology or self‑help.
 
 ---
@@ -396,7 +398,3 @@ Cohesion stabilizes the internal architecture under shared load.
 Stewardship governs how identity carries responsibility for that architecture across time.
 
 This is the structural handoff.
-
-  
-  
-**

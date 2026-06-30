@@ -1,5 +1,5 @@
 # Welcome to Identity Cartography
-#### A map of the interior world built from pressure, structure, and movement
+#### ***A map of the interior world built from pressure, structure, and movement
 Every person moves through an interior world shaped by forces they cannot always name.
 
 Identity Cartography is the discipline that makes those forces visible.

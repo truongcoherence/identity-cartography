@@ -1,16 +1,17 @@
-First Identity Domain Physics
+### ***First Identity Domain Physics
 
+![Content](https://substackcdn.com/image/fetch/$s_!_Zk8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2ebc2997-1715-4351-8979-3c085e6c4d73_933x930.png)
 # Preamble
 
-Scope:  
+### Scope:  
 
 Judgment governs the earliest stage of identity‑driven action: interpretation under uncertainty and personal consequence. It describes how identity maintains coherence before commitment, when futures are still fluid and outcomes cannot be known. Judgment does not govern emotion, personality, motivation, skill, or decision quality. It governs the structural process by which identity determines which futures are livable.
 
-Intent:  
+### Intent:  
 
 The purpose of this canon is to describe the physics of coherence preservation when a person must act without full information. Judgment exists to prevent identity fracture across time by evaluating futures through the lens of accountability to the future self. This canon explains the forces, mechanics, and distortions that shape interpretation before action, and establishes Judgment as the first Identity Domain Physics.
 
-Guardrails:  
+### Guardrails:  
 
 This canon is descriptive, not prescriptive. It does not evaluate character, morality, intelligence, or competence. It does not offer advice, best practices, or behavioral recommendations. Judgment is not a personality trait, a skill, or a moral virtue. It is a structural system that activates only under uncertainty and consequence. Interpret this canon as identity physics, not psychology, preference, or self‑help.
 
@@ -360,4 +361,3 @@ Boundaries define the conditions that make those futures possible.
 
 This is the structural handoff.
 
-**

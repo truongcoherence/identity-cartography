@@ -1,16 +1,17 @@
-Fifth Identity Domain Physics
+### ***Fifth Identity Domain Physics
 
 ---
+![](https://substackcdn.com/image/fetch/$s_!Iayi!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F49f31167-3ba4-4603-bfdc-7402b9f74bc1_928x930.png)
 
 ## Preamble
 
-Scope:  
+#### Scope:  
 Peril governs identity under exposure to consequence. It describes the physics of what happens when insulation collapses and identity is in direct contact with forces it cannot fully control. Peril does not govern danger, trauma, fear, risk tolerance, or catastrophe. It governs exposure — the condition in which identity is implicated and the outcome matters.
 
-Intent:  
+#### Intent:  
 The purpose of this canon is to describe the mechanics by which identity is revealed, tested, or transformed when consequence becomes unavoidable. Peril exists to explain what happens when the protections established by the previous IDPs no longer buffer identity from contact with the real. This canon explains the forces, distortions, and invariants that shape identity under exposure, and establishes Peril as the fifth and final Identity Domain Physics.
 
-Guardrails:  
+#### Guardrails:  
 This canon is descriptive, not prescriptive. It does not evaluate courage, resilience, morality, or character. It does not offer advice on risk management, safety, or emotional regulation. Peril is not a psychological state or moral trial. It is a structural condition that activates only when identity is exposed to consequence. Interpret this canon as identity physics, not psychology or self‑help.
 
 ---

@@ -1,16 +1,16 @@
-Temporal Environmental Physics
+#### ***Temporal Environmental Physics
 
----
+![](https://substackcdn.com/image/fetch/$s_!r4C2!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa464fe2c-95ab-434e-8c48-05907d19c855_768x624.png)
 
 # Preamble
 
-Scope:  
+#### Scope:  
 Chronophysics governs temporal structure. It defines the environmental behavior of time, the asymmetries that shape identity across duration, and the forces that determine how possibility evolves. It does not govern identity, memory, anticipation, or psychological experience.
 
-Intent:  
+#### Intent:  
 To articulate the temporal constraints that determine what can persist, what accelerates, what decays, and what collapses under duration. Chronophysics establishes the time‑scale architecture within which micro‑states (Quantum) and macro constraints (Geophysics) must operate.
 
-Guardrails:  
+#### Guardrails:  
 This canon must not be read as psychological, narrative, or prescriptive. It does not describe subjective time perception, emotional experience, or personal development. It prohibits interpreting temporal collapse as personal failure and forbids reading temporal forces as metaphor or advice.
 
 ---
@@ -220,4 +220,3 @@ Occurs because collapse thresholds are invisible until exceeded.
 
 These distortions arise from misreading temporal geometry.
 
-**

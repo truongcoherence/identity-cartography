@@ -1,16 +1,15 @@
-Identity‑Form Environmental Physics
+### ***Identity‑Form Environmental Physics
 
----
-
+![](https://substackcdn.com/image/fetch/$s_!HgUo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42cb4c9b-4eec-441e-a843-4782db662b30_742x680.png)
 # Preamble
 
-Scope:  
+#### Scope:  
 Morphophysics governs identity‑form. It defines the environmental conditions under which identity structures emerge, stabilize, deform, collapse, or reorganize. It does not govern cognition, behavior, preference, or psychological development.
 
-Intent:  
+#### Intent:  
 To articulate the structural laws that determine how identity‑form is generated, maintained, and transformed. Morphophysics establishes the bridge between environmental architecture (Geophysics → Quantum → Chronophysics → Topophysics) and the identity‑domain physics of the IDPs.
 
-Guardrails:  
+#### Guardrails:  
 This canon must not be read as psychological, narrative, or prescriptive. It does not describe personality, self‑concept, or developmental stages. It prohibits interpreting structural collapse as moral failure and forbids reading identity‑form as metaphor or advice. It describes environmental morphogenesis, not identity behavior.
 
 ---

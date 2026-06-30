@@ -1,16 +1,16 @@
-The Conditions of Identity, Environment, and Possibility
+### ***The Conditions of Identity, Environment, and Possibility
 
----
+![](https://substackcdn.com/image/fetch/$s_!zbAC!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc134f4a3-7b8c-4d17-b64d-2a0de34dca06_1019x943.png)
 
 # Preamble
 
-Scope:  
+#### Scope:  
 Metaphysics defines the foundational conditions that make identity, environment, structure, constraint, possibility, and change possible. It is the substrate beneath all physics layers (Geophysics, Quantum, Chronophysics, Topophysics, Morphophysics). It does not describe behavior, cognition, or interpretation.
 
-Intent:  
+#### Intent:  
 To articulate the ontic and modal architecture of Structuria — what exists, what can exist, what cannot exist, and what must exist for the system to be coherent.
 
-Guardrails:  
+#### Guardrails:  
 This canon must not be read as philosophical, spiritual, or psychological. It does not describe meaning, purpose, or value. It prohibits interpreting metaphysical conditions as moral claims or personal guidance. It describes the pre‑conditions of the entire system.
 
 ---

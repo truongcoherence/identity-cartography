@@ -1,19 +1,20 @@
-Second Identity Domain Physics
+#### ***Second Identity Domain Physics
 
+![](https://substackcdn.com/image/fetch/$s_!z79b!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F57350c85-5ea8-4832-9142-96f5c98df033_1026x907.jpeg)
 ## Preamble
 
-Scope:  
+#### Scope:  
 Boundaries govern the structural limits that protect identity after a future has been selected. They describe how identity maintains continuity under load by regulating what enters, what remains, and what must be excluded. Boundaries do not govern preference, assertiveness, communication style, emotional needs, or interpersonal negotiation. They govern the membrane‑level mechanics by which identity sustains the conditions of a chosen future.
 
-Intent:  
+#### Intent:  
 The purpose of this canon is to describe the physics of semi‑permeable constraint formation. Boundaries exist to prevent identity from absorbing incompatible load and to ensure that the commitments established by Judgment remain structurally livable. This canon explains the forces, mechanics, and distortions that shape membrane behavior under load, and establishes Boundaries as the second Identity Domain Physics.
 
-Guardrails:  
+#### Guardrails:  
 This canon is descriptive, not prescriptive. It does not evaluate confidence, self‑esteem, communication skill, or relational strength. It does not offer advice, assertiveness training, or interpersonal strategies. Boundaries are not preferences, values, or emotional needs. They are structural constraints that emerge from identity physics. Interpret this canon as identity physics, not psychology, personality, or self‑help.
 
 ---
 
-## 1. Definition & domain
+## 1. Definition & Domain
 
 Boundaries are the semi‑permeable membrane that protects identity from incompatible load after a commitment has been made.
 
@@ -453,4 +454,3 @@ how the internal parts of identity hold together under the shared load that pass
 
 This is the structural handoff.
 
-**

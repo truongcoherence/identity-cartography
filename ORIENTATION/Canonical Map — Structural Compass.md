@@ -8,7 +8,7 @@ Movement between strata is unidirectional.
 No stratum substitutes for another.
 
 The Canon is a closed system.
-
+![](https://substackcdn.com/image/fetch/$s_!SErI!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F778b5ede-310b-4d6d-8a09-12e743b29278_621x922.png)
 ---
 
 # I. Tools
