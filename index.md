@@ -1,7 +1,3 @@
-{% include sidebar.html %}
-
-
-
 # Welcome to Identity Cartography
 
 #### \*\*\*A map of the interior world built from pressure, structure, and movement
