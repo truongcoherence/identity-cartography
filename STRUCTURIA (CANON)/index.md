@@ -4,6 +4,14 @@ Structuria deacribes the physics that acts on identity. These includes states id
 as well as the broader forces that shape interactions like the Architectural Physics. Finally, the Metaphysics describes what can and can not
 be in this system. 
 
+## Sections
+
+* [Applications](APPLICATIONS/index.md)
+* [Field Notes](FIELD%20NOTES/index.md)
+* [Operators](OPERATORS/index.md)
+* [Orientation](ORIENTATION/index.md)
+* [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)
+
 ## Layers
 
 ### Identity Domain Physics
