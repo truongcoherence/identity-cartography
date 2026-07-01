@@ -238,7 +238,7 @@ Relief does not erase the event.
 It erases the distortion.
 
 -----
-- ### [Prompt](/OPERATORS/Lens%20Prompt.md)
+- ### [Prompt](/OPERATORS/Relief%20Prompt.md)
 
 ------
 ### Return to Home
