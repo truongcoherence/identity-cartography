@@ -5,22 +5,19 @@ as well as the broader forces that shape interactions like the Architectural Phy
 be in this system. 
 
 -----
-### Sections
+### Return to Home
 
-* [Applications](../APPLICATIONS/index.md)
-* [Field Notes](../FIELD%20NOTES/index.md)
-* [Operators](../OPERATORS/index.md)
-* [Orientation](../ORIENTATION/index.md)
-* [Structuria (Canon)](../STRUCTURIA%20(CANON)/index.md)
-----
+* [Home](../index.md)
+
+-----
 ### Layers
 
 #### Identity Domain Physics
-1. [Judgment](STRUCTURIA%20(CANON)/JUDGMENT)
-2. Boundaries
-3. Cohesion
-4. Stewardship
-5. Peril
+1. [Judgment](../STRUCTURIA%20(CANON)/JUDGMENT)
+2. [Boundaries](../STRUCTURIA%20(CANON)/BOUNDARIES)
+3. [Cohesion](../STRUCTURIA%20(CANON)/COHESION)
+4. Stewardship(../STRUCTURIA%20(CANON)/STEWARDSHIP)
+5. Peril(../STRUCTURIA%20(CANON)/PERIL)
 
 #### Architectrual Physics / Metaphysics
 - Geophysics 
