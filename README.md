@@ -27,19 +27,26 @@ Clarity is the ethic.
 
 Precision is the stance.
 
-## **What Lives Here**
+## What Lives Here
 
-### **Structuria (The Canon)**
-
+###Structuria (The Canon)
 The core physics of identity.
 
-### **Applications**
+### Applications
 
 Where the physics touch real life: transitions, relationships, work, collapse, reconstruction, and identity under pressure.
 
-### **Field Notes**
+### Field Notes
 
 Observations from the edges of the system — experiments, case studies, and live reasoning.
+
+### Operators
+
+Tools that reveal that reveal the terrain
+
+### Orientations
+
+Resources for helping you understand the larger map.
 
 ## **How to Begin**
 
