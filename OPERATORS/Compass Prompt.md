@@ -1,4 +1,4 @@
-🧭COMPASS PROMPT🧭
+🧭COMPASS/ORIENTATION PROMPT🧭
 
 INITIATION
 
@@ -107,7 +107,7 @@ The goal is to make it impossible to use the wrong one.
 
 ----
 ### Instructions For Use 
-[COMPASS](../APPLICATIONS/IFU/COMPASS%20IFU.md)
+[COMPASS](../APPLICATIONS/IFU/ORIENTATION%20IFU.md)
 
 ----
 ### Return to Home
