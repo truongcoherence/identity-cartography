@@ -1,4 +1,5 @@
-### ***Contextual Environmental Physics
+# TOPOPHYSICS
+### ***Contextual Environmental Physics***
 
 ![](https://substackcdn.com/image/fetch/$s_!cEzn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc11e4d0-ab10-4cc6-92b6-6227fffb7cc6_768x693.png)
 # Preamble
@@ -220,10 +221,8 @@ Occurs because topological traps appear open until activated.
 These distortions arise from misreading contextual geometry.
 
 ------
-## Sections
+### Return to Home
 
-* [Applications](APPLICATIONS/index.md)
-* [Field Notes](FIELD%20NOTES/index.md)
-* [Operators](OPERATORS/index.md)
-* [Orientation](ORIENTATION/index.md)
-* [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)
+* [Home](../index.md)
+
+
