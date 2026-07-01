@@ -271,6 +271,10 @@ It shows:
 Compass does not remove uncertainty.
 It makes uncertainty intelligible — and therefore workable.
 
+-----
+- ### [Prompt](/OPERATORS/Compass%20Prompt.md)
+
+------
 ### Return to Home
 
 * [Home](../index.md)
