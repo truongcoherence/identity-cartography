@@ -1,4 +1,5 @@
-### ***The Conditions of Identity, Environment, and Possibility
+# METAPHYSICS
+### ***The Conditions of Identity, Environment, and Possibility***
 
 ![](https://substackcdn.com/image/fetch/$s_!zbAC!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc134f4a3-7b8c-4d17-b64d-2a0de34dca06_1019x943.png)
 
@@ -258,10 +259,8 @@ Mistaking structural limits for personal deficiency.
 These distortions arise from misreading metaphysical geometry.
 
 ------
-## Sections
+### Return to Home
 
-* [Applications](APPLICATIONS/index.md)
-* [Field Notes](FIELD%20NOTES/index.md)
-* [Operators](OPERATORS/index.md)
-* [Orientation](ORIENTATION/index.md)
-* [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)
+* [Home](../index.md)
+
+
