@@ -13,31 +13,32 @@ The Canon is a closed system.
 ![](https://substackcdn.com/image/fetch/$s_!SErI!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F778b5ede-310b-4d6d-8a09-12e743b29278_621x922.png)
 ---
 
-## I. Tools
+## I. Epistemic Primitives
 
-Tools are epistemic operations.  
-They enable observation without projection.  
-They do not describe identity.  
-They do not model physics.  
-They precede Identity Domain Physics because observation must stabilize before structure can be recognized.
+Epistemic primitives are the minimal perceptual operations required before identity can be recognized without projection.
 
-#### Components:
+They:
+- do not describe identity
+- do not model physics
+- do not regulate interpretation
+- do not belong to the operator layer
 
-- distinction tools
-    
-- constraint tools
-    
-- orientation tools
-    
-- structural analysis tools
-    
+They precede Identity Domain Physics because perception must stabilize before structure can be seen.
+Primitives
 
-#### Transition Rule:  
+- Distinction Primitive — stabilizes separation
+- Constraint Primitive — stabilizes limitation
+- Positional Primitive — stabilizes location
+- Relational Primitive — stabilizes structure
 
-Tools → Identity Domain Physics  
-Movement occurs when operational clarity is sufficient to perceive identity states without narrative interference.
+### Transition Rule
 
-Note: The Practice Layer (Field Notes), Application Layer, and the six Operators (Lens, Interpreter, Relief, Seismograph, Probe, Orientation) do not appear in the canonical architecture. They govern how the discipline is used and expressed, but they are not part of the four‑stratum system. 
+Epistemic Primitives → Identity Domain Physics  
+Movement occurs when perceptual clarity is sufficient to perceive identity states without narrative interference.
+
+### Boundary Note
+The Practice Layer, Application Layer, and all operators (core, situational, identity, meta‑operators, and the Operator Stack) do not appear in the canonical architecture.
+They govern how the discipline is used, not what the discipline contains.
 
 ---
 
