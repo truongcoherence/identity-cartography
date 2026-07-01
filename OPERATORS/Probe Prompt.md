@@ -145,10 +145,10 @@ The reader must be able to answer:
 🧪(END PROMPT)🧪
 
 ---
-## Sections
+## Instruction For Use
+- [PROBE IFU](../OPERATORS/IFU/PROBE%20IFU.md)
 
-* [Applications](APPLICATIONS/index.md)
-* [Field Notes](FIELD%20NOTES/index.md)
-* [Operators](OPERATORS/index.md)
-* [Orientation](ORIENTATION/index.md)
-* [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)
+------
+### Return to Home
+
+* [Home](../index.md)
