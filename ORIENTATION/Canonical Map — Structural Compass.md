@@ -4,9 +4,13 @@
 ***Purpose: Define the structure, order, transitions, and validation anchors of the canon.***
 
 Identity Cartography is a four‑stratum identity‑physics system.  
+
 Each stratum resolves a distinct structural question.  
+
 The order is fixed.  
+
 Movement between strata is unidirectional.  
+
 No stratum substitutes for another.
 
 The Canon is a closed system.
@@ -24,12 +28,13 @@ They:
 - do not belong to the operator layer
 
 They precede Identity Domain Physics because perception must stabilize before structure can be seen.
-Primitives
 
-- Distinction Primitive — stabilizes separation
-- Constraint Primitive — stabilizes limitation
-- Positional Primitive — stabilizes location
-- Relational Primitive — stabilizes structure
+#### Primitives
+
+- *Distinction Primitive* — stabilizes separation
+- *Constraint Primitive* — stabilizes limitation
+- *Positional Primitive* — stabilizes location
+- *Relational Primitive* — stabilizes structure
 
 ### Transition Rule
 
