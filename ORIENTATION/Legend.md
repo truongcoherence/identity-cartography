@@ -572,6 +572,7 @@ The IDPs are the **forces inside the world**.
 This ordering is intentional and necessary.
 
 ---
+# 5.0 Operator Clusters
 ## 5.1 Interpretive Cluster
 
 The Interpretive Cluster contains operators that help a reader understand what is happening before they act. These operators clarify the terrain, reveal hidden forces, and stabilize perception.
