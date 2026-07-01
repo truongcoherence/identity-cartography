@@ -1,4 +1,5 @@
-### ***Fifth Identity Domain Physics
+# Peril
+### ***Fifth Identity Domain Physics***
 
 ---
 ![](https://substackcdn.com/image/fetch/$s_!Iayi!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F49f31167-3ba4-4603-bfdc-7402b9f74bc1_928x930.png)
@@ -252,10 +253,8 @@ Identity can return from Peril because Peril is not annihilation.
 It is revelation.
 
 ------
-## Sections
+### Return to Home
 
-* [Applications](APPLICATIONS/index.md)
-* [Field Notes](FIELD%20NOTES/index.md)
-* [Operators](OPERATORS/index.md)
-* [Orientation](ORIENTATION/index.md)
-* [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)
+* [Home](../index.md)
+
+
