@@ -167,10 +167,10 @@ The goal is to show that conflict is produced by how structures meet— and will
 🫨(END PROMPT)🫨
 
 ---
-## Sections
+## Instruction For Use
+- [SEISMOGRAPH IFU](../OPERATORS/IFU/SEISMOGRAPH%20IFU.md)
 
-* [Applications](APPLICATIONS/index.md)
-* [Field Notes](FIELD%20NOTES/index.md)
-* [Operators](OPERATORS/index.md)
-* [Orientation](ORIENTATION/index.md)
-* [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)
+------
+### Return to Home
+
+* [Home](../index.md)
