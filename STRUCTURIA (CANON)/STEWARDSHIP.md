@@ -1,4 +1,5 @@
-### ***Fourth Identity Domain Physics
+# STEWARDSHIP
+### ***Fourth Identity Domain Physics***
 
 ![](https://substackcdn.com/image/fetch/$s_!nd2L!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0af60a36-d5de-4ed2-a5aa-4fbdc8052bbe_939x919.png)
 
@@ -348,10 +349,8 @@ Peril governs what happens when continuity is threatened by forces beyond identi
 This is the structural handoff.
 
 ------
-## Sections
+### Return to Home
 
-* [Applications](APPLICATIONS/index.md)
-* [Field Notes](FIELD%20NOTES/index.md)
-* [Operators](OPERATORS/index.md)
-* [Orientation](ORIENTATION/index.md)
-* [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)
+* [Home](../index.md)
+
+
