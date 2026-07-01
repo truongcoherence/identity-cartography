@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OPERATORS/IFU/INTERPRETER IFU.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INTERPRETER IFU"
+              "title": "index"
             }
           }
         ],
@@ -200,6 +200,7 @@
   },
   "active": "71105b4adb358772",
   "lastOpenFiles": [
+    "OPERATORS/IFU/INTERPRETER IFU.md",
     "STRUCTURIA (CANON)/index.md",
     "index.md",
     "STRUCTURIA (CANON)/JUDGMENT.md",
@@ -225,7 +226,6 @@
     "STRUCTURIA (CANON)/QUANTUM.md",
     "STRUCTURIA (CANON)/STEWARDSHIP.md",
     "ORIENTATION/About Page.md",
-    "OPERATORS/Seismograph Prompt.md",
     "OPERATOR/IFU",
     "OPERATOR",
     "Untitled 1",
