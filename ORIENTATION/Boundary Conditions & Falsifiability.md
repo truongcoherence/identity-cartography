@@ -1,5 +1,6 @@
-Artifact Type: Meta‑Canonical Guardrail  
-Purpose: Define non‑claims, structural limits, and failure conditions for Identity Cartography.
+# Boundary Conditions and Falsability
+#### **Artifact Type: Meta‑Canonical Guardrail**
+#### **Purpose: Define non‑claims, structural limits, and failure conditions for Identity Cartography.**
 
 Identity Cartography is a descriptive identity‑physics system.  
 It makes structural claims about identity states, movement, and relational geometry.  
@@ -9,7 +10,7 @@ The system holds only as long as its gravitational, relational, and exposure‑b
 
 ---
 
-# Non‑Claims
+## Non‑Claims
 
 Identity Cartography does not describe people.  
 It describes identity states and the forces acting on them.
@@ -46,7 +47,7 @@ It describes identity physics, not moral judgment.
 
 ---
 
-# Falsifiability Conditions
+## Falsifiability Conditions
 
 Identity Cartography is falsifiable.  
 If any of the following conditions are met, the system fails.
@@ -79,7 +80,7 @@ If identity movement consistently violates these patterns, the system breaks.
 
 ---
 
-# Epistemic Boundaries
+## Epistemic Boundaries
 
 ### Descriptive, Not Empirical
 
@@ -97,15 +98,12 @@ These require different frameworks.
 
 ---
 
-# Conclusion
+## Conclusion
 
 Identity Cartography is a coherent identity‑physics system with explicit non‑claims and hard falsification conditions; it holds only while its gravitational, relational, and exposure‑based predictions remain consistent with observable human behavior.
 
 -----
-## Sections
+### Return to Home
 
-* [Applications](APPLICATIONS/index.md)
-* [Field Notes](FIELD%20NOTES/index.md)
-* [Operators](OPERATORS/index.md)
-* [Orientation](ORIENTATION/index.md)
-* [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)
+* [Home](../index.md)
+
