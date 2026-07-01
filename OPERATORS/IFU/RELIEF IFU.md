@@ -159,7 +159,7 @@ Relief restores the structure by identifying:
 
 Relief returns the person to their true size — not inflated, not erased.
 
-#### Example — The Hidden Hinge
+## Example — The Hidden Hinge
 
 A complex project succeeds.
 
