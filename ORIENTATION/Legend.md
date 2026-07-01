@@ -64,24 +64,22 @@ It tells them how to read the rest.
 
 Structuria organizes its body of work into four artifact types. Each type serves a distinct role in the discipline of Identity Cartography and signals how a reader should interpret what they’re seeing.
 
-### **1.1 Tools/Operators**
+### **1.1 Core Operators**
 
-Tools are the **operators** of Identity Cartography — the actionable instruments you can use in the wild to perform sensemaking, diagnosis, or intervention.
+Core Operators are the actionable mechanisms of Identity Cartography — the procedural actions you use in real situations to generate clarity, structure, or stability.
 
-They are designed for **application**, not theory.
+They are designed for application, not theory.
 
-Tools answer:
+Core Operators answer:
+> "How do I interact with this system in the wild?”
 
-> “What can I _do_ with this system?”
-
-Tools are:
-
-- actionable 
+Core Operators are:
+- actionable
 - portable
 - repeatable
 - designed for real‑world use
-    
-Examples include the Lens, Probe, Seismograph, Interpreter, and Relief.
+
+Examples include the Lens, Interpreter, Relief, Seismograph, Probe, and Compass.
 
 ### **1.2 Canon**
 The Canon is the **theoretical architecture** of Structuria — the models, explanations, and conceptual structures that describe _why_ the operators work and how the discipline fits together.
