@@ -1,4 +1,5 @@
-### ***First Identity Domain Physics
+# Judgment
+### ***First Identity Domain Physics***
 
 ![Content](https://substackcdn.com/image/fetch/$s_!_Zk8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2ebc2997-1715-4351-8979-3c085e6c4d73_933x930.png)
 # Preamble
@@ -362,10 +363,8 @@ Boundaries define the conditions that make those futures possible.
 This is the structural handoff.
 
 ------
-## Sections
+### Return to Home
 
-* [Applications](APPLICATIONS/index.md)
-* [Field Notes](FIELD%20NOTES/index.md)
-* [Operators](OPERATORS/index.md)
-* [Orientation](ORIENTATION/index.md)
-* [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)
+* [Home](../index.md)
+
+
