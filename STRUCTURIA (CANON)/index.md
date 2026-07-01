@@ -13,11 +13,11 @@ be in this system.
 ### Layers
 
 #### Identity Domain Physics
-1. [Judgment](../STRUCTURIA%20(CANON)/JUDGMENT)
-2. [Boundaries](../STRUCTURIA%20(CANON)/BOUNDARIES)
-3. [Cohesion](../STRUCTURIA%20(CANON)/COHESION)
-4. Stewardship(../STRUCTURIA%20(CANON)/STEWARDSHIP)
-5. Peril(../STRUCTURIA%20(CANON)/PERIL)
+1. [Judgment](../JUDGMENT)
+2. [Boundaries](../BOUNDARIES)
+3. [Cohesion](../COHESION)
+4. Stewardship(../STEWARDSHIP)
+5. Peril(../PERIL)
 
 #### Architectrual Physics / Metaphysics
 - Geophysics 
