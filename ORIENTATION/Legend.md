@@ -572,86 +572,64 @@ The IDPs are the **forces inside the world**.
 This ordering is intentional and necessary.
 
 ---
+## 5.1 Interpretive Cluster
 
-# **5. Tool Clusters**
+The Interpretive Cluster contains operators that help a reader understand what is happening before they act. These operators clarify the terrain, reveal hidden forces, and stabilize perception.
 
-Tools are the operational layer of Structuria. They are not theories or explanations — they are **instruments** used to navigate identity, pressure, and context in real time. Each tool performs a different kind of cognitive action, but they naturally group into clusters based on the type of work they do.
-
-Tool Clusters help readers understand **which instrument to reach for**, depending on what kind of terrain they are standing in and what kind of movement they need to make.
-
-Tools do not override the physics.
-
-They operate _within_ the physics.
-
-## **5.1 Interpretive Cluster**
-
-The Interpreter Cluster contains tools that help a reader **understand what is happening** before they act. These tools clarify the terrain, reveal hidden forces, and stabilize perception.
-
-### **Interpreter**
-
+### Interpreter
 Identifies the active forces, constraints, and pressures in a situation.
 
-Answers: _“What is this actually made of?”_
+Answers: “What is this actually made of?”
 
-### **Seismograph**
-
+### Seismograph
 Detects instability, accumulated pressure, and impending shifts — especially across Identity Domain Physics.
 
-Answers: _“What is about to move?”_
+Answers: “What is about to move?”
 
-### **Relief**
-
+### Relief
 Releases cognitive pressure by separating entangled elements so the reader can see clearly.
+Answers: “What can be separated so this becomes readable?”
+These operators operate at the perceptual and diagnostic level.
 
-Answers: _“What can be separated so this becomes readable?”_
+## 5.2 Probe Cluster
 
-These tools operate at the **perceptual** and **diagnostic** level.
+The Probe Cluster contains operators that go beneath the surface. They reveal underlying structures, assumptions, and hidden commitments that shape behavior.
 
-## **5.2 Probe Cluster**
-
-The Probe Cluster contains tools that **go beneath the surface**. They reveal underlying structures, assumptions, and hidden commitments that shape behavior.
-
-### **Probe**
+### Probe
 
 Surfaces the deeper structure beneath a reaction, pattern, or conflict.
 
-Answers: _“What is underneath this?”_
+Answers: “What is underneath this?”
 
-Probe is not a therapeutic tool.
+Probe is not a therapeutic operator.
+It is a structural excavation operator — used to reveal the architecture beneath a moment.
 
-It is a **structural excavation tool** — used to reveal the architecture beneath a moment.
+## 5.3 Lens Cluster
 
-## **5.3 Lens Cluster**
+The Lens Cluster contains operators that reshape perception so the reader can see the situation from a more coherent angle. These operators do not change the situation — they change the view.
 
-The Lens Cluster contains tools that **reshape perception** so the reader can see the situation from a more coherent angle. These tools do not change the situation — they change the _view_.
-
-### **Lens**
+### Lens
 
 Reframes the situation by shifting the angle of interpretation.
+Answers: “How else can this be seen?”
 
-Answers: _“How else can this be seen?”_
+## 5.4 Stability Cluster
 
-## **5.4 Stability Cluster**
+The Stability Cluster contains operators and heuristics that help the reader stay coherent while navigating pressure, ambiguity, or transition. These operators do not solve the situation — they stabilize the self.
 
-The Stability Cluster contains tools and heuristics that help the reader **stay coherent** while navigating pressure, ambiguity, or transition. These tools do not solve the situation — they stabilize the self.
-
-### **Relief (dual‑cluster)**
-
+## Relief (dual‑cluster)
 Used here to reduce internal load and restore clarity.
 
-# **Why Tool Clusters Matter**
-
-Tool Clusters give readers a way to understand **how the system is meant to be used**.
-
+## Why Operator Clusters Matter
+Operator Clusters give readers a way to understand how the system is meant to be used.
 Each cluster corresponds to a different kind of movement:
 
-- Interpreter → _Perception_
-- Probe → _Depth_
-- Lens → _Reframing_
-- Stability → _Coherence_
+- **Interpreter → Perception**
+- **Probe → Depth**
+- **Lens → Reframing**
+- **Stability → Coherence**
 
-This prevents misuse, overreach, and tool‑drift.
-
+This prevents misuse, overreach, and operator‑drift.
 It ensures the reader reaches for the right instrument at the right moment.
 
 ---
