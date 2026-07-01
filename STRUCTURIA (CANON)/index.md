@@ -14,15 +14,15 @@ be in this system.
 
 #### Identity Domain Physics
 1. [Judgment](../STRUCTURIA%20(CANON)/JUDGMENT.md)
-2. [Boundaries](../BOUNDARIES)
-3. [Cohesion](../COHESION)
-4. [Stewardship](../STEWARDSHIP)
-5. [Peril](../PERIL)
+2. [Boundaries](../STRUCTURIA%20(CANON)/BOUNDARIES.md)
+3. [Cohesion](../STRUCTURIA%20(CANON)/COHESION.md)
+4. [Stewardship](../STRUCTURIA%20(CANON)/STEWARDSHIP.md)
+5. [Peril](../STRUCTURIA%20(CANON)/PERIL.md)
 
 #### Architectrual Physics / Metaphysics
-- Geophysics 
-- Topophysics
-- Chronophysics
-- Quantum
-- Morphophysics
-- Metaphysics
+- [Geophysics](../STRUCTURIA%20(CANON)/GEOPHYSICS.md)
+- [Quantum](../STRUCTURIA%20(CANON)/QUANTUM.md)
+- [Chronophysics](../STRUCTURIA%20(CANON)/CHRONOPHYSICS.md)
+- [Topophysics](../STRUCTURIA%20(CANON)/TOPOPHYSICS.md)
+- [Morphophysics](../STRUCTURIA%20(CANON)/MORPHOPHYSICS.md)
+- [Metaphysics](../STRUCTURIA%20(CANON)/METAPHYSICS.md)
