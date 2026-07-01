@@ -29,7 +29,7 @@ Precision is the stance.
 
 ## What Lives Here
 
-###Structuria (The Canon)
+### Structuria (The Canon)
 The core physics of identity.
 
 ### Applications
