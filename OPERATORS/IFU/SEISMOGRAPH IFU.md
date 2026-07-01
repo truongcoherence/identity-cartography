@@ -290,7 +290,7 @@ Seismograph does not fix the rupture.
 It explains why it happened — and why it could not have gone any other way.
 
 -----
-- ### [Prompt](/OPERATORS/Lens%20Prompt.md)
+- ### [Prompt](/OPERATORS/Seismograph%20Prompt.md)
 
 ------
 ### Return to Home
