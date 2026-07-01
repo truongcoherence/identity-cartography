@@ -1,4 +1,5 @@
 🦇Interpreter Prompt 🦇
+
 INITIATION
 This Interpreter operates on a specific, real situation within a single system. 
 
@@ -231,10 +232,11 @@ The goal is to ensure the situation:
 🦇(END PROMPT)🦇
 
 ---
-## Sections
+---
+## Instruction For Use
+- [INTERPRETER IFU](../OPERATORS/IFU/INTERPRETER%20IFU.md)
 
-* [Applications](APPLICATIONS/index.md)
-* [Field Notes](FIELD%20NOTES/index.md)
-* [Operators](OPERATORS/index.md)
-* [Orientation](ORIENTATION/index.md)
-* [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)
+------
+### Return to Home
+
+* [Home](../index.md)
