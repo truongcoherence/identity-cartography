@@ -122,3 +122,13 @@ If failure modes are invariant in AI systems—systems devoid of ego, fatigue, o
 Organizations, institutions, and bureaucracies operate under rigid, often invisible constraints. When they collapse, we habitually attribute the breakdown to personality, intent, or incompetence. But if we apply the same engineering logic, we find that these failures are rarely personal; they are structural. They are features of the terrain itself, inherent to the architecture, rather than flaws in the individuals tasked to move through it.
 
 When the ground is fundamentally misaligned, even the most capable agents will experience the same failure modes as a constrained model: truncation, derailment, and inevitable collapse. To understand the agent, one must first map the topography of the system they inhabit.
+
+
+------
+## Sections
+
+* [Applications](APPLICATIONS/index.md)
+* [Field Notes](FIELD%20NOTES/index.md)
+* [Operators](OPERATORS/index.md)
+* [Orientation](ORIENTATION/index.md)
+* [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)

@@ -2,7 +2,8 @@
 
 This page has everything you need to understand what Identity Cartography is and how to use it. This is a discipline built on constraints. 
 
-## Sections
+----
+### Sections
 
 * [Applications](APPLICATIONS/index.md)
 * [Field Notes](FIELD%20NOTES/index.md)
@@ -10,4 +11,6 @@ This page has everything you need to understand what Identity Cartography is and
 * [Orientation](ORIENTATION/index.md)
 * [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)
 
-## Articles:
+------
+### Articles:
+- 

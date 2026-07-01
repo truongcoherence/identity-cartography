@@ -171,3 +171,12 @@ Alignment is discovered, not assumed.
 The invitation is not to follow a path, but to understand the terrain well enough to choose one.  
   
 If the reader recognizes their own cognition in this discipline, the map is available to them.
+
+----
+## ## Sections
+
+* [Applications](APPLICATIONS/index.md)
+* [Field Notes](FIELD%20NOTES/index.md)
+* [Operators](OPERATORS/index.md)
+* [Orientation](ORIENTATION/index.md)
+* [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)

@@ -4,7 +4,8 @@ Structuria deacribes the physics that acts on identity. These includes states id
 as well as the broader forces that shape interactions like the Architectural Physics. Finally, the Metaphysics describes what can and can not
 be in this system. 
 
-## Sections
+-----
+### Sections
 
 * [Applications](APPLICATIONS/index.md)
 * [Field Notes](FIELD%20NOTES/index.md)
@@ -12,14 +13,20 @@ be in this system.
 * [Orientation](ORIENTATION/index.md)
 * [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)
 
-## Layers
+----
+### Layers
 
-### Identity Domain Physics
+#### Identity Domain Physics
+1. [Judgment](STRUCTURIA%20(CANON)/JUDGMENT)
+2. Boundaries
+3. Cohesion
+4. Stewardship
+5. Peril
 
-
-### Architectrual Physics / Metaphysics
-
-
-- Environmental Physics (Geophysics, Topophysics, Chronophysics, Quantum, Morphophysics)
-- Identity Domain Physics (Judgment, Boundaries, Cohesion, Stewardship, Peril)
+#### Architectrual Physics / Metaphysics
+- Geophysics 
+- Topophysics
+- Chronophysics
+- Quantum
+- Morphophysics
 - Metaphysics

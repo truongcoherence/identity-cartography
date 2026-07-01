@@ -214,5 +214,11 @@ Occurs because drag is distributed and not immediately felt.
 
 These distortions arise from misreading macro‑scale geometry.
 
----
+------
+## Sections
 
+* [Applications](APPLICATIONS/index.md)
+* [Field Notes](FIELD%20NOTES/index.md)
+* [Operators](OPERATORS/index.md)
+* [Orientation](ORIENTATION/index.md)
+* [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)

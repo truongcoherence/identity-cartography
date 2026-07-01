@@ -215,4 +215,11 @@ These correspondences are structural, not interpretive.
 
 The Canonical Map defines a four‑stratum identity‑physics system with fixed order, defined transitions, and structural validation across established disciplines. It describes the architecture of the canon, not its applications or operators.
 
-**
+------
+## Sections
+
+* [Applications](APPLICATIONS/index.md)
+* [Field Notes](FIELD%20NOTES/index.md)
+* [Operators](OPERATORS/index.md)
+* [Orientation](ORIENTATION/index.md)
+* [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)

@@ -219,6 +219,11 @@ Occurs because topological traps appear open until activated.
 
 These distortions arise from misreading contextual geometry.
 
----
+------
+## Sections
 
-**
+* [Applications](APPLICATIONS/index.md)
+* [Field Notes](FIELD%20NOTES/index.md)
+* [Operators](OPERATORS/index.md)
+* [Orientation](ORIENTATION/index.md)
+* [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)

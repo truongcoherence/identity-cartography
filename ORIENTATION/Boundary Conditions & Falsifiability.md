@@ -101,4 +101,11 @@ These require different frameworks.
 
 Identity Cartography is a coherent identity‑physics system with explicit non‑claims and hard falsification conditions; it holds only while its gravitational, relational, and exposure‑based predictions remain consistent with observable human behavior.
 
-**
+-----
+## Sections
+
+* [Applications](APPLICATIONS/index.md)
+* [Field Notes](FIELD%20NOTES/index.md)
+* [Operators](OPERATORS/index.md)
+* [Orientation](ORIENTATION/index.md)
+* [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)

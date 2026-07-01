@@ -206,3 +206,13 @@ The goal is not to explain what happened. The goal is to ensure the situation:
 
 🔦 (END PROMPT) 🔦
 
+---
+## Instruction For Use
+- [LENS IFU](OPERATORS/IFU/LENS%20IFU)
+## Sections
+
+* [Applications](APPLICATIONS/index.md)
+* [Field Notes](FIELD%20NOTES/index.md)
+* [Operators](OPERATORS/index.md)
+* [Orientation](ORIENTATION/index.md)
+* [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)

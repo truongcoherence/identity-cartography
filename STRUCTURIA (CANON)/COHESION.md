@@ -398,3 +398,13 @@ Cohesion stabilizes the internal architecture under shared load.
 Stewardship governs how identity carries responsibility for that architecture across time.
 
 This is the structural handoff.
+
+
+------
+## Sections
+
+* [Applications](APPLICATIONS/index.md)
+* [Field Notes](FIELD%20NOTES/index.md)
+* [Operators](OPERATORS/index.md)
+* [Orientation](ORIENTATION/index.md)
+* [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)

@@ -95,4 +95,14 @@ CORE PRINCIPLE
 The goal is not to choose a tool.
 The goal is to make it impossible to use the wrong one.
 
+(END PROMPT)
 
+----
+Instructions For Use 
+## Sections
+
+* [Applications](APPLICATIONS/index.md)
+* [Field Notes](FIELD%20NOTES/index.md)
+* [Operators](OPERATORS/index.md)
+* [Orientation](ORIENTATION/index.md)
+* [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)

@@ -73,6 +73,7 @@ It shows you the terrain you are already walking.
 
 The path is yours.
 
+----
 ## Sections
 
 - [Applications](APPLICATIONS/index.md)

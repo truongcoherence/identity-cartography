@@ -9,6 +9,8 @@ The second meaning refers to the six tools used throughout the system.
 They are not the same.  
 Understanding the difference changes how you read and apply the entire canon.
 
+![](https://substackcdn.com/image/fetch/$s_!EYeR!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F855ab700-f2d4-4116-b28d-48adf4e2dec4_924x951.png)
+
 ---
 
 # I. Tools (Epistemic Operations)
@@ -247,4 +249,10 @@ This is why the six tools are operators.
 This is why the system is closed.  
 This is why the architecture remains stable.
 
-**
+## Sections
+
+* [Applications](APPLICATIONS/index.md)
+* [Field Notes](FIELD%20NOTES/index.md)
+* [Operators](OPERATORS/index.md)
+* [Orientation](ORIENTATION/index.md)
+* [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)

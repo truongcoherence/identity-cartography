@@ -164,5 +164,13 @@ CORE PRINCIPLE
 The goal is not to resolve the situation.
 
 The goal is to show that conflict is produced by how structures meet— and will persist until the structure itself changes.
-
 🫨(END PROMPT)🫨
+
+---
+## Sections
+
+* [Applications](APPLICATIONS/index.md)
+* [Field Notes](FIELD%20NOTES/index.md)
+* [Operators](OPERATORS/index.md)
+* [Orientation](ORIENTATION/index.md)
+* [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)

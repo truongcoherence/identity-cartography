@@ -416,3 +416,13 @@ And that’s when this stopped being a small article.
 Fit × Heart didn’t stay an interview tool. It revealed itself as the beginning of something broader, a way of understanding how our thinking and our presence land in every professional interaction. Naming it helped me see the structure underneath what I’ve been doing for years.
 
 If this framework helps you notice your own patterns, where your Fit shows up cleanly, where your Heart gets lost, where your communication lands or misses, then I’m glad I let myself be talked into writing the thing I didn’t think I needed to write. Sometimes the work you resist ends up revealing the system you’ve been using all along.
+
+
+------
+## Sections
+
+* [Applications](APPLICATIONS/index.md)
+* [Field Notes](FIELD%20NOTES/index.md)
+* [Operators](OPERATORS/index.md)
+* [Orientation](ORIENTATION/index.md)
+* [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)

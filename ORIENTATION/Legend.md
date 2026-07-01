@@ -7,15 +7,10 @@ It is not a glossary, a dictionary, or a list of definitions.
 It is the **decoding key** for a physics‑based discipline — the map that tells the reader:
 
 - what kinds of artifacts exist
-    
 - how to interpret them
-    
 - what scale of physics they operate on
-    
 - how tools relate to forces
-    
 - how to avoid misusing the system
-    
 
 Structuria is a cartographic discipline.
 
@@ -26,9 +21,7 @@ The Legend ensures that readers understand the architecture before they enter th
 The system is built on three layers of physics:
 
 - **Identity Domain Physics** — forces in the world
-    
-- **Architectural** **Physics**— the world
-    
+- **Architectural/Environmental** **Physics**— the world
 - **Metaphysics** — the ground
     
 
@@ -53,13 +46,9 @@ Its stance is descriptive, not prescriptive.
 Readers should approach the Legend with the understanding that:
 
 - maps do not replace emotions
-    
 - tools do not replace judgment
-    
 - physics do not replace experience
-    
 - names do not replace reality
-    
 
 The Legend is the perimeter of the system.
 
@@ -1075,3 +1064,12 @@ They protect the discipline from:
     
 
 Boundaries keep the system **clean**, **coherent**, and **teachable**.
+
+------
+## Sections
+
+* [Applications](APPLICATIONS/index.md)
+* [Field Notes](FIELD%20NOTES/index.md)
+* [Operators](OPERATORS/index.md)
+* [Orientation](ORIENTATION/index.md)
+* [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)
