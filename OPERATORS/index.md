@@ -1,22 +1,30 @@
 # Operators
 
 The operator layer of Identity Cartography.
-
 This section contains the tools necessary to use Identity Cartography to map out your own constraints so that you can orient yourself and determine how to leverage them.
-
 Many of the operators in this section are AI prompts you can copy and paste into most AI chat boxes to help you understand situations under the surface. 
 
-### Sections
+------
+### Return to Home
 
-* [Applications](APPLICATIONS/index.md)
-* [Field Notes](FIELD%20NOTES/index.md)
-* [Operators](OPERATORS/index.md)
-* [Orientation](ORIENTATION/index.md)
-* [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)
+* [Home](../index.md)
+
 ----
 ### Tools
-* [LENS](OPERATORS/Lens%20Prompt.md)
+
+* [LENS](../OPERATORS/Lens%20Prompt.md)
+* [INTERPRETER](../OPERATORS/Interpreter%20Prompt.md)
+* [RELIEF](../OPERATORS/Relief%20Prompt.md)
+* [SEISMOGRAPH](../OPERATORS/Seismograph%20Prompt.md)
+* [PROBE](../OPERATORS/PROBE%20Prompt.md)
+* [COMPASS](../OPERATORS/Compass%20Prompt.md)
 
 -----
 ### Instruction For Use
-- [LENS](OPERATORS/IFU/LENS%20IFU)
+
+- [LENS](..OPERATORS/IFU/LENS%20IFU)
+- [INTERPRETER](..OPERATORS/IFU/INTERPRETER%20IFU)
+- [RELIEF](..OPERATORS/IFU/RELIEF%20IFU)
+- [SEISMOGRAPH](..OPERATORS/IFU/SEISMOGRAPH%20IFU)
+- [PROBE](..OPERATORS/IFU/PROBE%20IFU)
+- [COMPASS](..OPERATORS/IFU/COMPASS%20IFU)
