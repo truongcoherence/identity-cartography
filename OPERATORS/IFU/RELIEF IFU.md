@@ -228,50 +228,50 @@ You can paste this directly into your vault.
 
 ---
 
-# **Relief — Structural Distortions**
+## **Relief — Structural Distortions**
 
 Relief reduces **load**, not **meaning**, **responsibility**, or **identity‑surface**.  
 These distortions arise when Relief is mis-seen as an interpersonal, emotional, or evaluative act rather than a structural operator.
 
 ---
 
-## **I. Distortions of Responsibility**
+### **I. Distortions of Responsibility**
 
-### **1. Accountability Removal**  
+#### **1. Accountability Removal**  
 Mistaking load‑reduction for responsibility‑reduction.  
 Relief does not erase obligation, consequence, or required growth.  
 It changes altitude, not duty.
 
 ---
 
-## **II. Distortions of Evaluation**
+### **II. Distortions of Evaluation**
 
-### **2. False Praise**  
+#### **2. False Praise**  
 Mistaking decompression for positive evaluation.  
 Relief does not affirm performance, character, or outcome.  
 It alters load, not value.
 
 ---
 
-## **III. Distortions of Ownership**
+### **III. Distortions of Ownership**
 
-### **3. Humility Collapse**  
+#### **3. Humility Collapse**  
 Mistaking Relief’s altitude for ego inflation or avoidance.  
 Relief does not contradict humility or ownership.  
 It prevents collapse so ownership can be exercised without distortion.
 
 ---
 
-## **IV. Distortions of Certainty**
+### **IV. Distortions of Certainty**
 
-### **4. Reassurance**  
+#### **4. Reassurance**  
 Mistaking Relief for emotional soothing or promise of safety.  
 Relief does not guarantee outcomes or reduce external risk.  
 It creates space; it does not create certainty.
 
 ---
 
-## **Therapy Disclaimer**
+### **Therapy Disclaimer**
 
 Relief is a **structural operator**, not a therapeutic intervention.  
 It does not treat symptoms, resolve trauma, regulate emotion, or provide psychological support.  
