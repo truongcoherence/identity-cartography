@@ -254,4 +254,3 @@ This is why the architecture remains stable.
 ### Return to Home
 
 * [Home](../index.md)
-md)
