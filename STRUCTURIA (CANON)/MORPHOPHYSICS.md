@@ -1,4 +1,5 @@
-### ***Identity‑Form Environmental Physics
+# Morphophysics
+### ***Identity‑Form Environmental Physics***
 
 ![](https://substackcdn.com/image/fetch/$s_!HgUo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42cb4c9b-4eec-441e-a843-4782db662b30_742x680.png)
 # Preamble
@@ -220,10 +221,9 @@ Occurs because divergence is invisible until collapse.
 These distortions arise from misreading morphic geometry.
 
 ------
-## Sections
+------
+### Return to Home
 
-* [Applications](APPLICATIONS/index.md)
-* [Field Notes](FIELD%20NOTES/index.md)
-* [Operators](OPERATORS/index.md)
-* [Orientation](ORIENTATION/index.md)
-* [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)
+* [Home](../index.md)
+
+
