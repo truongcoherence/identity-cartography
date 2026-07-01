@@ -97,167 +97,107 @@ Not visible
 
 Constraints
 
-responsibility for equipment readiness
-
-pressure to protect patient care
-
-limited authority over construction logistics
-
-dependence on Facilities
+- responsibility for equipment readiness
+- pressure to protect patient care
+- limited authority over construction logistics
+- dependence on Facilities
 
 Available actions
-
-present logic of original sequencing
-
-highlight operational risks
-
-request clarification of Facilities’ constraints
-
-preserve as much of the plan as possible
+- present logic of original sequencing
+- highlight operational risks
+- request clarification of Facilities’ constraints
+- preserve as much of the plan as possible
 
 Structural consequence
-
-clarifying risks may appear resistant
-
-requesting constraints slows momentum
-
-preserving the plan narrows flexibility
+- clarifying risks may appear resistant
+- requesting constraints slows momentum
+- preserving the plan narrows flexibility
 
 ### Position 2 — Facilities’ Vantage
 Visible
-
-construction realities: access paths, shutdowns, codes
-
-dependencies that make certain sequences impossible
-
-coordination of multiple trades
+- construction realities: access paths, shutdowns, codes
+- dependencies that make certain sequences impossible
+- coordination of multiple trades
 
 Not visible
-
-clinical choreography optimized by HTM and Radiology
-
-clinical cost of breaking the sequencing
-
-internal logic of the original plan
+- clinical choreography optimized by HTM and Radiology
+- clinical cost of breaking the sequencing
+- internal logic of the original plan
 
 Constraints
-
-nonnegotiable codes and safety requirements
-
-contractor schedules
-
-physical limitations of the space
-
-accountability for feasibility
+- nonnegotiable codes and safety requirements
+- contractor schedules
+- physical limitations of the space
+- accountability for feasibility
 
 Available actions
-
-reject infeasible sequences
-
-propose an alternative
-
-communicate feasibility limits
+- reject infeasible sequences
+- propose an alternative
+- communicate feasibility limits
 
 Structural consequence
-
-preserving feasibility disrupts clinical optimization
-
-rejecting the plan appears dismissive
-
-communicating constraints may not translate into clinical terms
+- preserving feasibility disrupts clinical optimization
+- rejecting the plan appears dismissive
+- communicating constraints may not translate into clinical terms
 
 ### Position 3 — Radiology’s Vantage
 Visible
-
-operational flow of imaging cases
-
-patient‑care impact of downtime
-
-value of the HTM–Radiology plan
+- operational flow of imaging cases
+- patient‑care impact of downtime
+- value of the HTM–Radiology plan
 
 Not visible
-
-construction constraints
-
-HTM’s technical dependencies
-
-PM’s coordination pressures
+- construction constraints
+- HTM’s technical dependencies
+- PM’s coordination pressures
 
 Constraints
-
-high patient volume
-
-pressure to avoid diversion
-
-dependence on HTM and Facilities
+- high patient volume
+- pressure to avoid diversion
+- dependence on HTM and Facilities
 
 Available actions
-
-advocate for minimal downtime
-
-express concern
-
-support original sequencing
+- advocate for minimal downtime
+- express concern
+- support original sequencing
 
 Structural consequence
-
-advocacy appears inflexible
-
-concern signals risk but doesn’t resolve feasibility
-
-alignment with HTM increases tension with Facilities
+- advocacy appears inflexible
+- concern signals risk but doesn’t resolve feasibility
+- alignment with HTM increases tension with Facilities
 
 ### Position 4 — Project Manager’s Vantage
 Visible
-
-conflict between groups
-
-divergence between clinical optimization and feasibility
-
-risk of schedule slippage
+- conflict between groups
+- divergence between clinical optimization and feasibility
+- risk of schedule slippage
 
 Not visible
-
-full technical depth of any group’s constraints
-
-internal logic behind each plan
-
-invisible pressures shaping behavior
+- full technical depth of any group’s constraints
+- internal logic behind each plan
+- invisible pressures shaping behavior
 
 Constraints
-
-responsibility for coordination
-
-pressure to maintain schedule
-
-limited authority to adjudicate constraints
+- responsibility for coordination
+- pressure to maintain schedule
+- limited authority to adjudicate constraints
 
 Available actions
-
-facilitate discussion
-
-request clarification
-
-surface constraints
+- facilitate discussion
+- request clarification
+- surface constraints
 
 Structural consequence
-
-facilitation maintains communication but not resolution
-
-clarification reveals incompatibilities
-
-surfacing constraints does not reconcile them
+- facilitation maintains communication but not resolution
+- clarification reveals incompatibilities
+- surfacing constraints does not reconcile them
 
 ### Why Multiple Interpretations Exist
-each position sees a different slice of the same system
-
-each position operates under constraints invisible to the others
-
-each position acts on pressures that do not align
-
-no position has full visibility
-
-the same plan appears elegant from one angle and infeasible from another
+- each position sees a different slice of the same system
+- each position operates under constraints invisible to the others
+- each position acts on pressures that do not align
+- no position has full visibility
+- the same plan appears elegant from one angle and infeasible from another
 
 The situation cannot collapse into a single story because the structure produces divergent vantage points.
 
@@ -286,7 +226,8 @@ Constraints do not change when roles change.
 7. Use Lens for accuracy, not agreement
 Lens predicts behavior by revealing constraint‑driven action.
 
-### [Prompt](/OPERATORS/Lens%20Prompt.md)
+-----
+- ### [Prompt](/OPERATORS/Lens%20Prompt.md)
 
 ------
 ### Return to Home
