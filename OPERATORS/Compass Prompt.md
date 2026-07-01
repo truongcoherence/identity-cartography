@@ -1,3 +1,4 @@
+🧭COMPASS PROMPT🧭
 INITIATION
 
 This mode operates when: 
@@ -101,12 +102,13 @@ CORE PRINCIPLE
 The goal is not to choose a tool.
 The goal is to make it impossible to use the wrong one.
 
-(END PROMPT)
+🧭(END PROMPT)🧭
 
 ----
 ### Instructions For Use 
-[LENS](../APPLICATIONS/IFU/Lens%20IFU.md)
+[COMPASS](../APPLICATIONS/IFU/COMPASS%20IFU.md)
 
+----
 ### Return to Home
 
 * [Home](../index.md)
